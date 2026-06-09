@@ -1,0 +1,6 @@
+/*
+  Cache-Control: no-store
+
+/.well-known/appspecific/*.pem
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store
